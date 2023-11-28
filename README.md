@@ -1,33 +1,12 @@
-- 👋 Hi, I’m @proindian27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-proindian27/proindian27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
-<!--- 👋 Hi, I’m @OMGitsNIK
-- 👀 I’m interested in learning new skills in Computer Science
-- 🌱 I’m currently learning java and python and also attending college !
-- 💞️ I’m looking to collaborate on projects that use java and python.
-- 📫 Reach me on [twitter](https://twitter.com/AlphaQ12345?s=03)
---->
-<!---
-OMGitsNIK/OMGitsNIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Dhruv Naik </br> 
 </h1>
 <p align="center">
-<a href="https://twitter.com/AlphaQ12345?s=03"><img alt="" src="https://img.shields.io/badge/@NIKHIL_RAO-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/nikhil-rao-90b337221/"><img alt="" src="https://img.shields.io/badge/@Nikhil_Rao-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
-<a href="https://www.instagram.com/ohmygoditsnikhil/?hl=en"><img alt="" src="https://img.shields.io/badge/ohmygoditsnikhil-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
+<a href="https://twitter.com/Dnaik_27"><img alt="" src="https://img.shields.io/badge/@Dnaik_27-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/dhruv-naik-729339288/"><img alt="" src="https://img.shields.io/badge/@Dhruv_Naik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
+<a href="https://www.instagram.com/pro_indian_27/?next=%2F"><img alt="" src="https://img.shields.io/badge/proindian27-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 </p>
 
-<h3 align="center"> 🏆 Wannbe Hecker </br>
+<h3 align="center"> 🏆 Future Hacker </br>
  ✨ Learning Something About Everything And Everything About Something ✨
 </h3>
 
@@ -64,5 +43,3 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
 ![](https://komarev.com/ghpvc/?username=OMGitsNIK&label=Profile+Views&color=yellow)
-
-
