@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Dhruv Naik </br> 
 </h1>
 <p align="center">
-<a href="https://twitter.com/Dnaik_27"><img alt="" src="https://img.shields.io/badge/@Dnaik_27-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/Dnaik_27"><img alt="" src="https://img.shields.io/badge/@Dnaik27-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/dhruv-naik-729339288/"><img alt="" src="https://img.shields.io/badge/@Dhruv_Naik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/></a>
 <a href="https://www.instagram.com/pro_indian_27/?next=%2F"><img alt="" src="https://img.shields.io/badge/proindian27-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center"/></a>
 </p>
@@ -37,9 +37,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Current GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=omgitsnik&show_icons=true&hide_border=true&theme=gruvbox" >
+<img src="https://github-readme-stats.vercel.app/api?username=proindian27&show_icons=true&hide_border=true&theme=gruvbox" >
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMGitsNIK&theme=gruvbox)]()
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=proindian27&theme=gruvbox)]()
 [![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
-![](https://komarev.com/ghpvc/?username=OMGitsNIK&label=Profile+Views&color=yellow)
+![](https://komarev.com/ghpvc/?username=proindian27K&label=Profile+Views&color=yellow)
